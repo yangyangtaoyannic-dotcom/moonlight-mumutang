@@ -1,0 +1,68 @@
+{
+  "formatVersion" : "1.1",
+  "component" : {
+    "group" : "com.github.cgutman",
+    "module" : "ShieldControllerExtensions",
+    "version" : "1.0.1",
+    "attributes" : {
+      "org.gradle.status" : "release"
+    }
+  },
+  "createdBy" : {
+    "gradle" : {
+      "version" : "8.0"
+    }
+  },
+  "variants" : [ {
+    "name" : "releaseVariantReleaseApiPublication",
+    "attributes" : {
+      "org.gradle.category" : "library",
+      "org.gradle.dependency.bundling" : "external",
+      "org.gradle.libraryelements" : "aar",
+      "org.gradle.usage" : "java-api"
+    },
+    "files" : [ {
+      "name" : "ShieldControllerExtensions-1.0.1.aar",
+      "url" : "ShieldControllerExtensions-1.0.1.aar",
+      "size" : 15302,
+      "sha512" : "74ce7add69b76666817cf576510d645cc658559c3c0a83fb5d766be1181e40ca743024b12ffdac944abd5f94790dd9c2f5d01924892013ae2b0a78459f4446ae",
+      "sha256" : "f53ddeedfa584db60d66e11ba675d322813b60706f9b213976bf95994fcb7384",
+      "sha1" : "dcde4ccd18f9d719814d108339a0c6be37568e8e",
+      "md5" : "26aa7ffc23480757b33963b9b853ffed"
+    } ]
+  }, {
+    "name" : "releaseVariantReleaseRuntimePublication",
+    "attributes" : {
+      "org.gradle.category" : "library",
+      "org.gradle.dependency.bundling" : "external",
+      "org.gradle.libraryelements" : "aar",
+      "org.gradle.usage" : "java-runtime"
+    },
+    "files" : [ {
+      "name" : "ShieldControllerExtensions-1.0.1.aar",
+      "url" : "ShieldControllerExtensions-1.0.1.aar",
+      "size" : 15302,
+      "sha512" : "74ce7add69b76666817cf576510d645cc658559c3c0a83fb5d766be1181e40ca743024b12ffdac944abd5f94790dd9c2f5d01924892013ae2b0a78459f4446ae",
+      "sha256" : "f53ddeedfa584db60d66e11ba675d322813b60706f9b213976bf95994fcb7384",
+      "sha1" : "dcde4ccd18f9d719814d108339a0c6be37568e8e",
+      "md5" : "26aa7ffc23480757b33963b9b853ffed"
+    } ]
+  }, {
+    "name" : "releaseVariantReleaseSourcePublication",
+    "attributes" : {
+      "org.gradle.category" : "documentation",
+      "org.gradle.dependency.bundling" : "external",
+      "org.gradle.docstype" : "sources",
+      "org.gradle.usage" : "java-runtime"
+    },
+    "files" : [ {
+      "name" : "ShieldControllerExtensions-1.0.1.jar",
+      "url" : "ShieldControllerExtensions-1.0.1.jar",
+      "size" : 7338,
+      "sha512" : "4e9c66b822c897fe253f2bfecc93181f0cb5b10773f94558ec850c4ef85c5f0b7d539c56e38e8fec8bd302ea1745299396c3b0a1afad419e7afb59700a419057",
+      "sha256" : "0de9ff2fb8824bf6cdd4f0ebddd69ce30e8d44d497c0ccc9b035419fa92111ac",
+      "sha1" : "56a7abf5b86226c1b914f575d4d1aaa97fef8d98",
+      "md5" : "50c3d4d1a5cfd7e5c6316a1e156742ef"
+    } ]
+  } ]
+}

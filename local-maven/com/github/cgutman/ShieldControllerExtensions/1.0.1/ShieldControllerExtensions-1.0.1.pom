@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <!-- do_not_remove: published-with-gradle-metadata -->
+<modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.cgutman</groupId>
+  <artifactId>ShieldControllerExtensions</artifactId>
+  <version>1.0.1</version>
+  <packaging>aar</packaging>
+  <name>cgutman/ShieldControllerExtensions</name>
+  <description>Android library to access rumble and other special functionality on NVIDIA Shield controllers</description>
+  <url>https://github.com/cgutman/ShieldControllerExtensions</url>
+  <inceptionYear>2022</inceptionYear>
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://api.github.com/licenses/mit</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>cgutman</id>
+      <name>Cameron Gutman</name>
+      <email></email>
+    </developer>
+  </developers>
+  <scm>
+    <connection>scm:git://github.com/cgutman/ShieldControllerExtensions.git</connection>
+    <developerConnection>scm:git://github.com/cgutman/ShieldControllerExtensions.git</developerConnection>
+    <url>git://github.com/cgutman/ShieldControllerExtensions.git</url>
+  </scm>
+</project>
