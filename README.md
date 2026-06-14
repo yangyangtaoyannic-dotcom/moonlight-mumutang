@@ -6,13 +6,13 @@
 
 ## 直接下载
 
-- Android 客户端 APK：[moonlight-mumutang-android-debug.apk](dist/moonlight-mumutang-android-debug.apk)
+- Android 客户端 APK：[moonlight-mumutang-android.apk](dist/moonlight-mumutang-android.apk)
 - Windows 串流服务端安装包：[apollo-windows-0.4.7-alpha.1.exe](dist/apollo-windows-0.4.7-alpha.1.exe)
 
 文件校验：
 
 ```text
-moonlight-mumutang-android-debug.apk
+moonlight-mumutang-android.apk
 SHA256: E68F2CDAA0BF001976F702F0F6AE84CA826D9FED4B69DD5ADAC7C984A8D1FD19
 
 apollo-windows-0.4.7-alpha.1.exe
