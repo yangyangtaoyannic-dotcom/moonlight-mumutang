@@ -4,6 +4,21 @@
 
 本仓库主要用于保存木木糖定制版源码、构建脚本和本地修改记录，方便后续继续维护、打包和同步。
 
+## 直接下载
+
+- Android 客户端 APK：[moonlight-mumutang-android-debug.apk](dist/moonlight-mumutang-android-debug.apk)
+- Windows 串流服务端安装包：[apollo-windows-0.4.7-alpha.1.exe](dist/apollo-windows-0.4.7-alpha.1.exe)
+
+文件校验：
+
+```text
+moonlight-mumutang-android-debug.apk
+SHA256: E68F2CDAA0BF001976F702F0F6AE84CA826D9FED4B69DD5ADAC7C984A8D1FD19
+
+apollo-windows-0.4.7-alpha.1.exe
+SHA256: 66BA98DE16AF71EF8EEC379EC35263235FB67119CCBFC33B61119D592F5B5CF6
+```
+
 ## 主要特性
 
 - 支持从 Windows 主机串流游戏或桌面到 Android 手机、平板、电视盒子等设备。
