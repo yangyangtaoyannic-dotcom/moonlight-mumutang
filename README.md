@@ -1,6 +1,6 @@
 # 月光·木木糖
 
-`月光·木木糖` 是基于 [Moonlight Android](https://github.com/moonlight-stream/moonlight-android) 的安卓串流客户端定制版本，面向 Sunshine、Apollo 以及兼容 NVIDIA GameStream 协议的主机使用。它保留 Moonlight 的低延迟串流能力，并在移动端操作、快捷菜单、虚拟按键和日常串流体验上做了更适合手机使用的调整。
+Moonlight Mumutang首先是基于阿西西的的一个改版增加了界面的记忆功能,原始是基于 [Moonlight Android](https://github.com/moonlight-stream/moonlight-android) 的安卓串流客户端定制版本，面向 Sunshine、Apollo 以及兼容 NVIDIA GameStream 协议的主机使用。它保留 Moonlight 的低延迟串流能力，并在移动端操作、快捷菜单、虚拟按键和日常串流体验上做了更适合手机使用的调整。
 
 本仓库主要用于保存木木糖定制版源码、构建脚本和本地修改记录，方便后续继续维护、打包和同步。
 
@@ -38,13 +38,10 @@ SHA256: 66BA98DE16AF71EF8EEC379EC35263235FB67119CCBFC33B61119D592F5B5CF6
 1. 串流快捷设置全局记忆  
    性能信息、鼠标/触控模式、本地鼠标光标、远程桌面鼠标模式、触控灵敏度、虚拟手柄、虚拟键盘、横竖屏等设置会写入全局偏好，下次连接自动恢复。
 
-2. 成品化文案与品牌替换  
-   Debug 安装包显示名改为 `月光·木木糖`，应用内可见的旧定制品牌文案已替换为木木糖版本。
-
-3. 首页旧标题迁移  
+2. 首页旧标题迁移  
    如果手机上曾经保存过 `Moonlight (Debug)` 作为首页标题，新版本启动时会自动迁移为 `月光·木木糖`，避免旧文案继续覆盖应用名。
 
-4. Apollo / Sunshine 使用适配  
+3. Apollo / Sunshine 使用适配  
    已在本地测试过 Apollo 权限配置、APK 安装、手机连接和串流启动流程。
 
 ## 构建环境
